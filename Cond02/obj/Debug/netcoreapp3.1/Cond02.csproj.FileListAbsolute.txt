@@ -1,0 +1,12 @@
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\bin\Debug\netcoreapp3.1\Cond02.exe
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\bin\Debug\netcoreapp3.1\Cond02.deps.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\bin\Debug\netcoreapp3.1\Cond02.runtimeconfig.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\bin\Debug\netcoreapp3.1\Cond02.runtimeconfig.dev.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\bin\Debug\netcoreapp3.1\Cond02.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\bin\Debug\netcoreapp3.1\Cond02.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\obj\Debug\netcoreapp3.1\Cond02.AssemblyInfoInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\obj\Debug\netcoreapp3.1\Cond02.AssemblyInfo.cs
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\obj\Debug\netcoreapp3.1\Cond02.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\obj\Debug\netcoreapp3.1\Cond02.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\obj\Debug\netcoreapp3.1\Cond02.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Cond02\obj\Debug\netcoreapp3.1\Cond02.genruntimeconfig.cache

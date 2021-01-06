@@ -1,0 +1,12 @@
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\bin\Debug\netcoreapp3.1\Uri1038.exe
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\bin\Debug\netcoreapp3.1\Uri1038.deps.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\bin\Debug\netcoreapp3.1\Uri1038.runtimeconfig.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\bin\Debug\netcoreapp3.1\Uri1038.runtimeconfig.dev.json
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\bin\Debug\netcoreapp3.1\Uri1038.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\bin\Debug\netcoreapp3.1\Uri1038.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\obj\Debug\netcoreapp3.1\Uri1038.AssemblyInfoInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\obj\Debug\netcoreapp3.1\Uri1038.AssemblyInfo.cs
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\obj\Debug\netcoreapp3.1\Uri1038.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\obj\Debug\netcoreapp3.1\Uri1038.dll
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\obj\Debug\netcoreapp3.1\Uri1038.pdb
+C:\Users\Estudos\Desktop\Curso C#\ws-vs2019\Exercicios2\Uri1038\obj\Debug\netcoreapp3.1\Uri1038.genruntimeconfig.cache
